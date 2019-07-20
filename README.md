@@ -1,5 +1,5 @@
 # vue-front
-Simple Login and Profile page using Vue
+Simple login and profile page using Vue
 
 ## Project setup
 ```
